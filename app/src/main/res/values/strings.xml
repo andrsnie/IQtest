@@ -1,0 +1,68 @@
+<!--
+  ~ Created by andrSnie on 1.03.21 3:15
+  ~ Copyright (c) 2021. All rights reserved.
+  -->
+
+<resources>
+    <string name="app_name">IQtest</string>
+
+    <string name="question_1">Which number logically follows this series:\n\n4, 6, 9, 6, 14, 6, ___?</string>
+    <string name="answer_1">19</string>
+    <string name="question_2">If you rearrange the letters "CARACTTIN" you have the name of a(n):\n\ncontinent, city, ocean, animal?</string>
+    <string name="answer_2">ocean</string>
+    <string name="question_3">What is the next number in the series:\n\n7, 10, 16, 28, 52, ___?</string>
+    <string name="answer_3">100</string>
+    <string name="question_4">Apathetic is to sympathetic as ____________ is to concerned.\n\ncallous, compassionate, merciful, kind?</string>
+    <string name="answer_4">callous</string>
+    <string name="question_5">A college professor teaches a class of 80 students. Fourteen students are business majors, six are education majors, and the rest are undecided.\nWhat percentage of the class is undecided?</string>
+    <string name="answer_5">75</string>
+    <string name="question_6">Afraid is to scared as brave is to _______.\n\ncourageous, cowardly, timid, trustworthy?</string>
+    <string name="answer_6">courageous</string>
+    <string name="question_7">An organization hosts monthly meals for families in the community. In March, 70 people attended the meal. In April, 60 attended. Their highest attendance was in May, with 20 more than April.\nWhat is their average monthly attendance?</string>
+    <string name="answer_7">70</string>
+    <string name="question_8">If the first two statements are true, is the final statement true?\n\nMrs. Jones is responsible for collecting all of the fifth grade classes’ money for the school fundraiser.\nSally attends Mrs. Jones’ school.\nMrs. Jones is responsible for collecting Sally’s money for the fundraiser.\n\nyes, no, uncertain?</string>
+    <string name="answer_8">uncertain</string>
+    <string name="question_9">What is the missing number in the series:\n\n3, 9, 81, 15, 21, 71,  __, 33, 61?</string>
+    <string name="answer_9">27</string>
+    <string name="question_10">Angie’s profits for March totaled $5400. If she profited nine times more in March than in April,\nwhat were April’s profits?</string>
+    <string name="answer_10">600</string>
+    <string name="question_11">What is the missing number in the series:\n\n7, 12, 19, __, 39, 52?</string>
+    <string name="answer_11">28</string>
+    <string name="question_12">A family is planning a vacation, traveling 300 miles from their house.\n\nIf they plan to stop at parks to allow the children to play every two hours,\nhow many parks will they visit before they reach their destination assuming they travel 60 mph?</string>
+    <string name="answer_12">2</string>
+    <string name="question_13">The words gallant and valiant have ________ meanings.\n\nsame, opposite, unrelated?</string>
+    <string name="answer_13">same</string>
+    <string name="question_14">Which of the following does not have the same meaning as the other words?\n\nanxious, apprehensive, distressed, enthusiastic, concerned?</string>
+    <string name="answer_14">enthusiastic</string>
+    <string name="question_15">What is the next number in the series:\n\n4, 5, 11, 34, 137, __?</string>
+    <string name="answer_15">686</string>
+    <string name="question_16">Accept and except have _________ meanings.\n\nsimilar, different, unrelated?</string>
+    <string name="answer_16">unrelated</string>
+    <string name="question_17">If a store sold 25 pairs of socks, making a 25% profit of $150,\nhow much did they charge for each pair?</string>
+    <string name="answer_17">24</string>
+    <string name="question_18">The words allude and elude have ______ meanings.\n\nsame, opposite, unrelated?</string>
+    <string name="answer_18">unrelated</string>
+    <string name="question_19">If the first two statements are true, is the third statement true?\n\nMr. Reed teaches all of the advanced math classes at his school.\nBilly attends Mr. Reed’s school and is in an advanced math class.\nMr. Reed is Billy’s math teacher.\n\nyes, no, uncertain?</string>
+    <string name="answer_19">yes</string>
+    <string name="question_20">250 people attended the first showing. Of the 250, 75 were adults above the age of 40, 50 were between the ages of 20 and 40, and 25 were teenagers ages 13&#8211;19.\nWhat percentage of the attendees were children 12 and under?</string>
+    <string name="answer_20">40</string>
+
+    <string name="check_button">Check</string>
+    <string name="hint_button">I give up</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong!</string>
+    <string name="next_button">Next</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="your_score_is">Your score is \</string>""
+
+    <string name="your_answer">Your answer:</string>
+    <string name="hint_number">Insert here</string>
+
+    <string name="congratulations">Testing is over.\nCongratulations!\nYour IQ is \</string>
+    <string name="iq_85">Do not worry. Be happy!\nLearn and train&#8230;</string>
+    <string name="iq_140">You are either a Nobel laureate or Bill Gates</string>
+    <string name="iq_115">You have a very high intelligence</string>
+    <string name="iq_85_115">You\'re a normal person</string>
+</resources>

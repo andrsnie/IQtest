@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by andrSnie on 1.03.21 3:15
+  ~ Copyright (c) 2021. All rights reserved.
+  -->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/question_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance = "?android:textAppearanceMedium"
+            android:padding="24dp"/>
+
+        <TextView
+            android:id="@+id/answer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance = "?android:textAppearanceMedium"
+            android:text="@string/your_answer"/>
+
+        <EditText
+            android:id="@+id/edit_answer"
+            android:layout_height = "wrap_content"
+            android:layout_width = "wrap_content"
+            android:hint="@string/hint_number"
+            android:inputType="textCapWords"
+            android:textAppearance = "?android:textAppearanceMedium"
+            android:layout_marginBottom="24dp"/>
+
+        <Button
+            android:id="@+id/check_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/check_button" />
+
+        <Button
+            android:id="@+id/hint_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hint_button"/>
+
+        <Button
+            android:id="@+id/next_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/next_button"
+            android:drawableRight="@drawable/arrow_right"
+            android:drawableEnd="@drawable/arrow_right"
+            android:drawablePadding="4dp"/>
+    </LinearLayout>
+</ScrollView>
